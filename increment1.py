@@ -52,7 +52,7 @@ str2 = tk.StringVar()
 str2.set('0')
 str3 = tk.StringVar()
 str3.set('0')
-
+# ¸ü¸Ä
 
 lab3 = tk.Label(base, text="=", font=('Arial', 12))
 lab3.place(x=550, y=200, anchor='nw')
